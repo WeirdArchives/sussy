@@ -1,0 +1,8 @@
+bicycle:bicycle-built-for-two:mountain bike:unicycle:jinrikisha:disk brake:tricycle
+car:car wheel:sports car:freight car:racer:golfcart:limousine:cab:jeep:car mirror
+motorcycle:motor scooter:moped
+airplane:airliner:warplane:space shuttle
+bus:trolleybus:school bus:recreational vehicle:minibus:minivan:police van
+train:bullet train:electric locomotive:steam locomotive:unicycle:beach wagon:passenger car
+truck:garbage truck:tow truck:fire engine:pickup:trailer truck:moving van:tow truck:moving van:ambulance
+boat:speedboat:boathouse:liner:schooner:yawl:trimaran:lakeside:pirate:seashore:container ship:drilling platform:catamaran:amphibious vehicle:aircraft carrier
